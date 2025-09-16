@@ -4,9 +4,13 @@ Jednoduchá konzolová aplikácia v C#, ktorá keď beží každú hodinu stiahn
 Pokiaľ je meteostanica nedostupná, uloží sa prázdny záznam do SQL databázy s informáciou, že nebola dostupná.
 
 ## Spustenie
-1. Nainštalujte si [.NET](https://dotnet.microsoft.com/en-us/download).
-2. Otvorte projekt vo Visual Studiu.
-3. Spustite aplikáciu:  
+1. Nainštalujte si [.NET](https://dotnet.microsoft.com/en-us/download)
+2. Nainštalujte si [GIT](https://git-scm.com/downloads/win)
+3. Vytvorte priečinok, kde si chcete projekt stiahnúť a do cmd:
+   ```
+   git clone https://github.com/Ados-developer/WarioConsoleApp.git
+   ```
+4. Spustite aplikáciu:  
    - vo Visual Studiu: **Debug → Start Without Debugging (Ctrl + F5)**  
    - cez príkazový riadok: v priečinku, kde je .csproj súbor, spustite:
      ```
