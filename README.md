@@ -21,4 +21,4 @@ Pokiaľ je meteostanica nedostupná, uloží sa prázdny záznam do SQL databáz
 Pre tento jednoduchý projekt som použil SQLite v súbore "WarioConsoleApp.db". Tento súbor sa automaticky vytvorí pri prvom spustení.
 
 ## Čas implementácie
-Celkový projekt mi zabral približne 1,5 hodiny.
+Celkový projekt mi zabral približne 2 hodiny.
